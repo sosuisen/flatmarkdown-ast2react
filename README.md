@@ -1,6 +1,6 @@
 # flatmarkdown-ast2react
 
-Render [FlatMarkdown](https://github.com/petajournal/flatmarkdown) AST as native React components, with wikilink support for SPA navigation.
+Render [FlatMarkdown](https://github.com/sosuisen/flatmarkdown) AST as native React components, with wikilink support for SPA navigation.
 
 ## Installation
 
@@ -184,7 +184,7 @@ const options: ReactRenderOptions = {
 
 ## Supported AST Node Types
 
-37 node types, as flatmarkdown 0.5.0 makes them. They are defined in [SPEC_AST.md](https://github.com/petajournal/flatmarkdown/blob/main/SPEC_AST.md).
+37 node types, as flatmarkdown 0.5.0 makes them. They are defined in [SPEC_AST.md](https://github.com/sosuisen/flatmarkdown/blob/main/SPEC_AST.md).
 
 **Block (17):** `document`, `paragraph`, `heading`, `code_block`, `block_quote`, `multiline_block_quote`, `list`, `item`, `task_item`, `table`, `table_row`, `table_cell`, `thematic_break`, `html_block`, `footnote_definition`, `alert`, `subtext`
 
