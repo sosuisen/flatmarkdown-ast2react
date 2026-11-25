@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petajournal/flatmarkdown-ast2react.git"
+    "url": "git+https://github.com/sosuisen/flatmarkdown-ast2react.git"
   },
   "bugs": {
-    "url": "https://github.com/petajournal/flatmarkdown-ast2react/issues"
+    "url": "https://github.com/sosuisen/flatmarkdown-ast2react/issues"
   },
-  "homepage": "https://github.com/petajournal/flatmarkdown-ast2react#readme",
+  "homepage": "https://github.com/sosuisen/flatmarkdown-ast2react#readme",
   "keywords": [
     "flatmarkdown",
     "ast",
